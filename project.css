@@ -1,0 +1,34 @@
+.img{
+    height: 350px;
+    width:300px;
+    border-radius: 30px;
+    padding-left:600px;
+    padding-top: 10px;
+
+    
+ 
+    
+}
+.wel{
+  
+    padding-bottom:10px;
+    text-align: center;
+}
+.tnk{
+    text-align: center;
+}
+.color{
+    background-color:rgb(175, 130, 175);
+    
+}
+.class1{
+    font-style:oblique;
+    font-size:26px;
+}
+.intro{
+    font-style:itallic;
+}
+.navbar{
+    display: flex;
+    align-content: flex-end;
+}
